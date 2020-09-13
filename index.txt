@@ -1,0 +1,2 @@
+https://SomeResources.github.io/LaLaLand.zip
+https://SomeResources.github.io/scripts/play.sh
