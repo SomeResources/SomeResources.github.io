@@ -7,7 +7,7 @@ mkdir Present
 cd Present
 
 #get the song links 
-curl https://raw.githubusercontent.com/SomeResources/SomeResources.github.io/master/index.txt 2>/dev/null > songlinks.txt
+curl https://raw.githubusercontent.com/someresources/someresources.github.io/master/index.txt 2>/dev/null > songlinks.txt
 
 while IFS= read -r url; do
    echo curling $url
@@ -23,6 +23,7 @@ while IFS= read -r url; do
    if [[ $name = *zip* ]] #unzip a zip
 	then
     	unzip $name
+	rm $name
    fi
 
 done <"songlinks.txt"
