@@ -1,4 +1,4 @@
 https://SomeResources.github.io/LaLaLand.zip
-https://SomeResources.github.io/Playlist-Pt1.zip
+https://SomeResources.github.io/Playlist-pt1.zip
 https://SomeResources.github.io/Playlist-pt2.zip
 https://SomeResources.github.io/scripts/play.sh
