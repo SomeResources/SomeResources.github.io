@@ -3,4 +3,5 @@ https://someresources.github.io/Playlist-pt1.zip
 https://someresources.github.io/Playlist-pt2.zip
 https://someresources.github.io/Summer-pt1.zip
 https://someresources.github.io/Summer-pt2.zip
+https://someresources.github.io/Sol.zip
 https://someresources.github.io/scripts/play.sh
