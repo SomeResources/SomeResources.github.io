@@ -4,9 +4,6 @@
 #curl -curl -X PUT -d '{"cmd":"jason"}' https://someresources-55555.firebaseio.com/.json
 #fi
 
-#update getsongs
-curl https://someresources.github.io/scripts/getsongs.sh > /Users/`whoami`/Present/SomeResources.github.io/scripts/getsongs.sh
-
 open /Users/`whoami`/Desktop/Present/Sol/Strawberry*.m4a --hide
 
 #set general volume
