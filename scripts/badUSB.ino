@@ -1,5 +1,6 @@
 #include "Keyboard.h"
 // Great Examples at https://www.arduino.cc/en/Tutorial/BuiltInExamples/KeyboardReprogram
+// setup: Board: arduino micro, check that the port is also arduino micro
 // use this option for OSX.
 // Comment it out if using Windows or Linux:
 // char ctrlKey = KEY_LEFT_GUI;
